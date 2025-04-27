@@ -12,7 +12,7 @@ A simple RESTful API to log and manage hypothetical AI safety incidents.
 ## Setup Instructions
 
 1. **Clone the repo**  
-   `git clone <your-repo-url> && cd incident_log_api`
+   `git clone https://github.com/fearyan/AI-Safety-Incident-Log.git && cd incident_log_api`
 
 2. **Install dependencies**  
    `pip install -r requirements.txt`
