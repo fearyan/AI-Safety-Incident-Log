@@ -1,6 +1,6 @@
 # HumanChain AI Safety Incident Log API
 
-A simple RESTful API service to log and manage hypothetical AI safety incidents. This project is built with Python and Flask.
+A simple RESTful API service to log and manage hypothetical AI safety incidents. Includes endpoints to create, view, and delete incidents, with data stored in a database. Built for HumanChain’s AI Safety Incident Log assignment.
 
 ## Tech Stack
 
